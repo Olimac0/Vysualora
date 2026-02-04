@@ -26,4 +26,6 @@ Este repo incluye un workflow que compila con `npm run build` y publica `dist/` 
 2. En **Build and deployment**, selecciona **GitHub Actions**.
 3. Haz un push a `main` y GitHub publicará automáticamente el sitio.
 
+URL esperada: `https://olimac0.github.io/Vysualora/` (no uses `/vysualora/index.html`).
+
 > Si usas otra rama, actualiza el workflow en `.github/workflows/deploy.yml`.
